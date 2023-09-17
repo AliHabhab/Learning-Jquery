@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" class="last">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://code.jquery.com/jquery-1.12.4.js"
+      integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU="
+      crossorigin="anonymous"
+    ></script>
+    <script src="traversingChild.js"></script>
+  </head>
+  <body>
+    <section>
+      <!-- Diret Children For Section is div and aside  -->
+      This Is Section
+      <div>
+        <!-- Diret Children For Div is p  -->
+        This Is Div
+        <p class="jquery">
+          <!-- Diret Children For P is span  -->
+          This Is Paragraph
+          <span class="jquery">This Is Span</span>
+        </p>
+        <p class="jquery">
+          <!-- Diret Children For P is span  -->
+          I Love jQuery
+          <span class="jquery">This Is Span</span>
+        </p>
+        <p class="jquery">
+          <!-- Diret Children For P is span  -->
+          This Is Facebook
+          <span class="jquery">This Is Span</span>
+        </p>
+      </div>
+
+      <aside>This Is Aside</aside>
+    </section>
+  </body>
+</html>

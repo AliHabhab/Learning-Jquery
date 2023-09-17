@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background-color: #F00;
+    color: #FFF;
+    height: 300px;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 50px;
+    padding: 20px;
+}
+
+p {
+    position: absolute;
+    left: 200px;
+    top: 100px;
+    background-color: #00F;
+    height: 100px;
+}

@@ -1,0 +1,11 @@
+/* body * {
+    padding: 10px;
+    margin: 0 0 5px;
+    background: #DDD;
+    border: 1px solid #CCC;
+} */
+
+div {
+    padding: 10px;
+    border: 1px solid #CCC;
+}

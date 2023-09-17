@@ -1,0 +1,24 @@
+/* div {
+    background-color: #F00;
+    padding: 10px;
+    font-size: 20px;
+    color: #FFF;
+    position: absolute;
+    left: 100px;
+    top: 100px
+} */
+
+* {
+    height: 4000px;
+}
+
+div {
+    background-color: #F00;
+    padding: 10px;
+    font-size: 20px;
+    color: #FFF;
+    position: absolute;
+    height: 20px;
+    left: 0;
+    top: 300px
+}

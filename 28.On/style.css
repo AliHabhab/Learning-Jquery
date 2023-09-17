@@ -1,0 +1,12 @@
+.color {
+    color: #00F;
+    font-weight: bold;
+}
+
+
+.custom {
+    background-color: #EEE;
+    padding: 10px;
+    width: 100px;
+    margin: 20px auto;
+}

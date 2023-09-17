@@ -1,0 +1,5 @@
+div, p, aside {
+    padding: 10px;
+    background: #DDD;
+    margin: 10px 0;
+}

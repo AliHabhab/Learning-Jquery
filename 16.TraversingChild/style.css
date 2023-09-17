@@ -1,0 +1,12 @@
+section, div, p, span, aside {
+    padding: 10px;
+    border: 1px solid #CCC;
+}
+
+p {
+    margin: 0;
+}
+
+span {
+    display: block;
+}

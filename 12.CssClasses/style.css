@@ -1,0 +1,31 @@
+.custom {
+    background: #F00;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FFF;
+    width: 300px;
+    padding: 10px;
+}
+
+
+.br {
+    border-radius: 10px;
+}
+
+.ali {
+    color: #080;
+}
+
+.test {
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    bottom: 4px solid #FFF;
+    background: #EEE;
+}
+
+.border {
+    border: 4px solid #F00;
+    background: #333;
+    color: #FFF;
+}

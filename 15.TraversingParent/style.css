@@ -1,0 +1,20 @@
+section  {
+    border: 1.5px solid #080;
+    width: 400px;
+    padding: 10px;
+}
+section .top {
+    width: 300px;
+    border: 1.5px solid #676767;
+    padding: 10px;
+}
+
+section .top p {
+    border: 1.5px solid #F0F;
+    padding: 10px;
+    margin: 0;
+}
+
+section .top p span {
+    border: 1.5px solid #FF0;
+}

@@ -1,0 +1,25 @@
+div {
+    background: #EEE;
+    border: 1px solid #CCC;
+    padding: 10px;
+    width: 300px;
+    height: 100px;
+    margin: 10px 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input, textarea {
+    display: block;
+    margin: 20px 0;
+    padding: 5px;
+    width: 200px;
+}
+
+textarea {
+    height: 100px;
+}
+
+h3 {
+    margin: 0 0 10px;
+    font-size: 18px;
+}

@@ -1,0 +1,11 @@
+p, span {
+    padding: 10px;
+}
+
+span {
+    display: block;
+}
+/* 
+ul > li {
+    border: 1px solid #00F;
+} */

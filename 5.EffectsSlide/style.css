@@ -1,0 +1,16 @@
+.open {
+    padding: 10px;
+    background: #DDD;
+    border: 1px solid #676767;
+    width: 600px;
+    margin: 20px auto 0;
+}
+
+.box {
+    padding: 20px;
+    background: #DDD;
+    border: 1px solid #676767;
+    width: 600px;
+    margin: auto;
+    /* display: none; */
+}

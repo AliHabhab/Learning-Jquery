@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 4000px;
+    padding-top: 2500px;
+}
+
+div {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    background-color: #F00;
+    color: #FFF;
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 20px;
+    display: none;
+}
